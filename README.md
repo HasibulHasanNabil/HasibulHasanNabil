@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hasibul Hasan Nabil</h1>
-<h3 align="center">Computer Science & Engineering Student | Cyber Security & Systems Researcher</h3>
-
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-project-5085354-4241617.png" width="420" alt="Coding Animated Graphic" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Hasibul%20Hasan%20Nabil&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
+<h3 align="center">✨ Computer Science & Engineering Student | Cyber Security & Systems Researcher ✨</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=System+Security+%26+Cryptography;Computer+Networks+%26+Protocols;Database+Systems+%26+Architecture;Data+Science+%26+Predictive+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System+Security+%26+Cryptography;Networking+%26+Secure+Protocols;Database+Architecture+%26+Design;Data+Science+%26+Predictive+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,25 +16,25 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg5g/giphy.gif" width="300" />
+<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/uV9BG48un1C03eOR5E/giphy.gif" width="320" />
 
 - 🎓 **Academic:** Pursuing **B.Sc. in Computer Science & Engineering (CSE)**.
-- 🔐 **Security & Cryptography:** Passionate about cryptographic protocols, system security architectures, and secure communications.
-- 🌐 **Networking & Systems:** Exploring computer networking, network security, and data transmission models.
-- 🗄️ **Databases:** Experienced in designing relational database schemas, SQL optimization, and database architecture.
-- 📊 **Data Science:** Enthusiastic about data analysis, machine learning pipelines, and predictive analysis on complex datasets.
+- 🔐 **Security & Cryptography:** Researching cryptographic protocols, system security architectures, and secure communication.
+- 🌐 **Networking & Systems:** Exploring computer networks, protocol engineering, and data transmission models.
+- 🗄️ **Database Engineering:** Experience in designing relational database schemas, query optimization, and storage architectures.
+- 📊 **Data Science & ML:** Analyzing clinical datasets and building end-to-end machine learning predictive pipelines.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Core CSE Domains & Skillset
+## 🛠️ Tech Stack & CSE Skillset
 
 <p align="left">
-  <img src="https://img.shields.io/badge/System_Security-Cryptography-00F0FF?style=for-the-badge&logo=letsencrypt&logoColor=black" />
-  <img src="https://img.shields.io/badge/Networking-Protocols-FF6F00?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-Systems-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-00F0FF?style=for-the-badge&logo=letsencrypt&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Systems-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="left">
@@ -52,16 +51,16 @@
 ## ⚡ GitHub Activity & Statistics
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=HasibulHasanNabil&show_icons=true&theme=dark&hide_border=false&border_color=00f0ff" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHasanNabil&layout=compact&theme=dark&hide_border=false&border_color=00f0ff" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=HasibulHasanNabil&show_icons=true&theme=tokyonight&hide_border=false&border_color=00f0ff" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHasanNabil&layout=compact&theme=tokyonight&hide_border=false&border_color=00f0ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibulHasanNabil&theme=dark&hide_border=false&border_color=00f0ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibulHasanNabil&theme=tokyonight&hide_border=false&border_color=00f0ff" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Securing systems, optimizing networks, and unlocking insights through data."</i> 🚀
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30&section=footer" width="100%" />
 </p>
