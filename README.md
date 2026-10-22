@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding Cartoon Animation" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" />
+<img align="right" alt="Coding Cartoon Animation" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="320" />
 
 - 🎓 **Academic:** Pursuing **B.Sc. in Computer Science & Engineering (CSE)**.
 - 🔐 **Security & Cryptography:** Researching cryptographic protocols, system security architectures, and secure communication.
@@ -30,21 +30,29 @@
 
 ## 🛠️ Tech Stack & CSE Skillset
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cryptography-00F0FF?style=for-the-badge&logo=letsencrypt&logoColor=black" />
-  <img src="https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database_Systems-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <p>
+        <img src="https://img.shields.io/badge/Cryptography-00F0FF?style=for-the-badge&logo=letsencrypt&logoColor=black" />
+        <img src="https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database_Systems-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" valign="middle" width="35%">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Dancing Developer Cartoon" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,11 +64,4 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibulHasanNabil&theme=tokyonight&hide_border=false&border_color=00f0ff" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30&section=footer" width="100%" />
-</p>
+  <img src="
