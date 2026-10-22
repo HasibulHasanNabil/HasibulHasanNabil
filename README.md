@@ -16,15 +16,15 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/uV9BG48un1C03eOR5E/giphy.gif" width="320" />
+<p align="center">
+  <img src="https://my-readme-quotes.vercel.app/api?theme=tokyonight&border_color=00f0ff" alt="Tech Quote" />
+</p>
 
 - 🎓 **Academic:** Pursuing **B.Sc. in Computer Science & Engineering (CSE)**.
 - 🔐 **Security & Cryptography:** Researching cryptographic protocols, system security architectures, and secure communication.
 - 🌐 **Networking & Systems:** Exploring computer networks, protocol engineering, and data transmission models.
 - 🗄️ **Database Engineering:** Experience in designing relational database schemas, query optimization, and storage architectures.
 - 📊 **Data Science & ML:** Analyzing clinical datasets and building end-to-end machine learning predictive pipelines.
-
-<br clear="right"/>
 
 ---
 
